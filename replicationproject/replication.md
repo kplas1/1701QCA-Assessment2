@@ -19,6 +19,21 @@ https://www.hackster.io/behrooz66/buzz-wire-with-score-counter-e308ef
 
 This project is related to mine because it is interactive and can be used as a toy. The project displays a wire which the user will go around.cThe user has a seperate wire and if the two connect, a loud sound is projected from the speaker in the form of a buzz. Meaning that they lost. 
 
+### Related project 2 ###
+Plush Toy Translator
+
+https://www.hackster.io/PaulTR/translation-toy-013bfc
+
+![Image](fluffy_toy_translator.png)
+
+This project is relate to mine because it has very similar aspects being a plush toy and being able to interact with it. In this case the user is able to speak to it and it translates the voice although the project is a little more advanced it has a similar outcome where the user is able to play with the toy and learn something new. 
+
+### Related project 3 ###
+Plush Toy Translator
+
+https://www.hackster.io/PaulTR/translation-toy-013bfc
+
+![Image](fluffy_toy_translator.png)
 
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
