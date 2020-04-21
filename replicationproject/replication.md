@@ -17,42 +17,7 @@ https://www.hackster.io/behrooz66/buzz-wire-with-score-counter-e308ef
 
 ![Image](wire_course.png)
 
-This project is related to mine because (insert reasons here).
-
-## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
-
-*For each of the assigned readings, answer the questions below.*
-
-### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
-
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
-
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
-
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-
-### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
-
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
-
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
-
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-
-### Reading: Scott Sullivan, Prototyping Interactive Objects ###
-
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
-
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
-
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+This project is related to mine because it is interactive and can be used as a toy. The project displays a wire which the user will go around.cThe user has a seperate wire and if the two connect, a loud sound is projected from the speaker in the form of a buzz. Meaning that they lost. 
 
 
 ## Interaction flowchart ##
