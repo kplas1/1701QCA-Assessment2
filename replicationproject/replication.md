@@ -5,17 +5,17 @@
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Replication project choice ##
-(Insert the name of the project you chose to replicate.)
+1701QCA-Assessment 2
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
+Buzz Wire with score counter
 
-(Insert URL to project)
+https://www.hackster.io/behrooz66/buzz-wire-with-score-counter-e308ef
 
-![Image](missingimage.png)
+![Image](wire_course.png)
 
 This project is related to mine because (insert reasons here).
 
