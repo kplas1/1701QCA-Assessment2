@@ -42,7 +42,7 @@ Buddy the 3D-Printed Arduino Social Robot
 
 https://create.arduino.cc/projecthub/slantconcepts/buddy-the-3d-printed-arduino-social-robot-ec3dca?ref=tag&ref_id=toys&offset=23
 
-![Image](missingimage.png)
+![Image](buddy_the_3d_printed_arduino_social_robot.png)
 
 This project is related to mine because it is a toy that has a social aspect to it. My project also has a social aspect to it as it answers questions you can ask it and will give a answer. The buddy social robot is considered to be 'alive' in a way as it moves and looks around the room. My bear will also be considered 'alive' as it creates sounds when shaked and also answers questions. 
 
@@ -51,7 +51,7 @@ Magic 8 Ball
 
 https://www.instructables.com/id/Digital-Magic-8-Ball/
 
-![Image](missingimage.png)
+![Image](magic_8_ball.png)
 
 This project is related to mine because it is similar in interaction and it answers questions people ask. The difference is mine is in the form or a teddy bear and the user's answers are yes or no, not with a few words. 
 
@@ -60,7 +60,7 @@ Microbit Unicorn
 
 https://makecode.microbit.org/projects/robot-unicorn
 
-![Image](missingimage.png)
+![Image](unicorn.png)
 
 This project is related to mine because it uses a microbit to control actions of the interactive toy. Which is similar as i am using a microbit to code and program a teddy bear to be interactive with and can answer user's questions with 'yes or no'.
 ## Interaction flowchart ##
