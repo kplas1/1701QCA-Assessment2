@@ -56,14 +56,13 @@ https://www.instructables.com/id/Digital-Magic-8-Ball/
 This project is related to mine because it is similar in interaction and it answers questions people ask. The difference is mine is in the form or a teddy bear and the user's answers are yes or no, not with a few words. 
 
 ### Related project 6 ###
-Portal 2 talking Turret
+Microbit Unicorn
 
-https://www.hackster.io/Novachris/talking-portal-2-turret-gun-637bf3
+https://makecode.microbit.org/projects/robot-unicorn
 
 ![Image](missingimage.png)
 
-This project is related to mine because it has the speaker aspect to the toy. It isn't that interactive with playing and shaking though it just talks like a robot from a video game. 
-
+This project is related to mine because it uses a microbit to control actions of the interactive toy. Which is similar as i am using a microbit to code and program a teddy bear to be interactive with and can answer user's questions with 'yes or no'.
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
