@@ -35,9 +35,18 @@ https://www.hackster.io/Novachris/talking-portal-2-turret-gun-637bf3
 
 ![Image](speaker_portal.png)
 
-This project is related to mine because it has the speaker aspect to the toy. It isn't that interactive with playing and shaking though it just talks like a robot from a video game. 
+This project is related to mine because it has the speaker aspect to the toy. It isn't that interactive with playing and shaking though it just talks like a robot from the video game portal. 
 
 ### Related project 4 ###
+Buddy the 3D-Printed Arduino Social Robot
+
+https://create.arduino.cc/projecthub/slantconcepts/buddy-the-3d-printed-arduino-social-robot-ec3dca?ref=tag&ref_id=toys&offset=23
+
+![Image](missingimage.png)
+
+This project is related to mine because it is a toy that has a social aspect to it. My project also has a social aspect to it as it answers questions you can ask it and will give a answer. The buddy social robot is considered to be 'alive' in a way as it moves and looks around the room. My bear will also be considered 'alive' as it creates sounds when shaked and also answers questions. 
+
+### Related project 5 ###
 Portal 2 talking Turret
 
 https://www.hackster.io/Novachris/talking-portal-2-turret-gun-637bf3
@@ -46,7 +55,14 @@ https://www.hackster.io/Novachris/talking-portal-2-turret-gun-637bf3
 
 This project is related to mine because it has the speaker aspect to the toy. It isn't that interactive with playing and shaking though it just talks like a robot from a video game. 
 
+### Related project 6 ###
+Portal 2 talking Turret
 
+https://www.hackster.io/Novachris/talking-portal-2-turret-gun-637bf3
+
+![Image](missingimage.png)
+
+This project is related to mine because it has the speaker aspect to the toy. It isn't that interactive with playing and shaking though it just talks like a robot from a video game. 
 
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
