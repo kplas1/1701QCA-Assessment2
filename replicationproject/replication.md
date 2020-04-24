@@ -31,11 +31,11 @@ This project is relate to mine because it has very similar aspects being a plush
 ### Related project 3 ###
 Portal 2 talking Turret
 
+https://www.hackster.io/Novachris/talking-portal-2-turret-gun-637bf3
 
+![Image](speaker_portal.png)
 
-![Image](missingimage.png)
-
-This prject is related to mine because
+This project is related to mine because it has the speaker aspect to the toy. It isn't that interactive with playing and shaking though it just talks like a robot from a video game. 
 
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
