@@ -47,13 +47,13 @@ https://create.arduino.cc/projecthub/slantconcepts/buddy-the-3d-printed-arduino-
 This project is related to mine because it is a toy that has a social aspect to it. My project also has a social aspect to it as it answers questions you can ask it and will give a answer. The buddy social robot is considered to be 'alive' in a way as it moves and looks around the room. My bear will also be considered 'alive' as it creates sounds when shaked and also answers questions. 
 
 ### Related project 5 ###
-Portal 2 talking Turret
+Magic 8 Ball
 
-https://www.hackster.io/Novachris/talking-portal-2-turret-gun-637bf3
+https://www.instructables.com/id/Digital-Magic-8-Ball/
 
 ![Image](missingimage.png)
 
-This project is related to mine because it has the speaker aspect to the toy. It isn't that interactive with playing and shaking though it just talks like a robot from a video game. 
+This project is related to mine because it is similar in interaction and it answers questions people ask. The difference is mine is in the form or a teddy bear and the user's answers are yes or no, not with a few words. 
 
 ### Related project 6 ###
 Portal 2 talking Turret
