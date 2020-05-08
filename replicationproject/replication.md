@@ -68,6 +68,8 @@ This project is related to mine because it uses a microbit to control actions of
 
 ![Image](flowchart.png)
 
+In this flowchart it shows the interactions for the shake and button presses. A battery will be connected to the microbit which will be connected to a speaker, so when these actions take place the microbit would get information from the inputs and then give outputs. 
+
 ## Process documentation
 
 *In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
@@ -76,11 +78,19 @@ This project is related to mine because it uses a microbit to control actions of
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-![Image](missingimage.png)
+![Image](code_1.png)
 
-In this image it shows the code that i start off with. 
+![Image](code_1.png)
 
+In this image it shows the code that i start off with. which is trying to create a smiley face when the button is pressed and a tone or music would play. This was because my original idea was that the user can press either A or B and it will interact with the teddy bear and it would then make sounds and display different faces. Eventually I came across one of the researched project and a 8 ball came up and I thought of creating a yes or no response that the bear would make. 
 
+[Image](code_2.png)
+
+This Screenshot was taken shortly after I decided to change the option that the bear would make faces. I switched it so the bear would display Yes or No on the microbit. I thought it would be quite annoying and or glitch the microbit if i had it spell Yes and No letter by letter. So to save the microbit from malfunctioning from a kid spamming the button i decided to just make the microbit display the letter Y and N for the answers. 
+
+[Image](code_3.png)
+
+In this image I decided that I wouldn't need a second (B) button and decided to implement a shake option which will create a noise and display a smiley face. 
 
 ## Project outcome ##
 
