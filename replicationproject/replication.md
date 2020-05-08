@@ -78,17 +78,23 @@ In this flowchart it shows the interactions for the shake and button presses. A 
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-![Image](code_1.png)
+![Image](teddy.jpg)
+
+In this image it shows the bear i wil be using and the microbit with speaker. 
+
+![Image](teddy_microbit.jpg)
+
+In this image it shows where I was planning on putting the microbit on the teddy bear and how it would be able to be accessed and interacted with easier 
 
 ![Image](code_1.png)
 
 In this image it shows the code that i start off with. which is trying to create a smiley face when the button is pressed and a tone or music would play. This was because my original idea was that the user can press either A or B and it will interact with the teddy bear and it would then make sounds and display different faces. Eventually I came across one of the researched project and a 8 ball came up and I thought of creating a yes or no response that the bear would make. 
 
-[Image](code_2.png)
+![Image](code_2.png)
 
 This Screenshot was taken shortly after I decided to change the option that the bear would make faces. I switched it so the bear would display Yes or No on the microbit. I thought it would be quite annoying and or glitch the microbit if i had it spell Yes and No letter by letter. So to save the microbit from malfunctioning from a kid spamming the button i decided to just make the microbit display the letter Y and N for the answers. 
 
-[Image](code_3.png)
+![Image](code_3.png)
 
 In this image I decided that I wouldn't need a second (B) button and decided to implement a shake option which will create a noise and display a smiley face. 
 
