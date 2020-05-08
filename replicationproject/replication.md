@@ -1,4 +1,4 @@
-# Assessment 1: Replication project
+# Assessment 2: Interactive project
 
 *Fill out the following workbook with information relevant to your project.*
 
