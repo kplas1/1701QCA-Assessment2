@@ -78,7 +78,9 @@ This project is related to mine because it uses a microbit to control actions of
 
 ![Image](missingimage.png)
 
-*Include screenshots of the code you have used.*
+In this image it shows the code that i start off with. 
+
+
 
 ## Project outcome ##
 
